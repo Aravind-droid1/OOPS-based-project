@@ -1,4 +1,4 @@
-package pizza_shop4;
+package pizza_shop;
 import java.util.*;
 public class Bill {
     private int total;

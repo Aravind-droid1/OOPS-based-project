@@ -1,4 +1,4 @@
-package pizza_shop4;
+package pizza_shop;
 
 import java.util.List;
 import java.util.Scanner;

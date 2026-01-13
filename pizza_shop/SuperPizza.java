@@ -1,4 +1,4 @@
-package pizza_shop4;
+package pizza_shop;
 
 public class SuperPizza extends Pizza{
     public SuperPizza(String pizza_size,boolean isVeg,int no_pizza){
